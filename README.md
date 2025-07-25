@@ -1,4 +1,4 @@
-# 🌿 Bhumia.com – Building the Future of Land Registration
+# 🌿 Bhumia – Building the Future of Land Registration
 
 **A global open-source initiative to make land, plot, and farm registration fully online, transparent, and corruption-free under government rules.**
 
@@ -8,7 +8,7 @@
 
 Today, land registration across the world is plagued by **corruption, inefficiency, paperwork, and inaccessibility** for common people. Middlemen and hidden processes create **legal disputes, fraudulent claims, and wasted time** for farmers, landowners, and governments.
 
-**Bhumia.com** aims to solve this by **building an undefeatable, fully online, government-compliant system for land, plot, and farm registration**.
+**Bhumia** aims to solve this by **building an undefeatable, fully online, government-compliant system for land, plot, and farm registration**.
 
 ---
 
@@ -69,7 +69,6 @@ We envision a world where:
 
 ## 📍 Our Current Status
 
-✅ **Domain secured**: [Bhumia.com](https://Bhumia.com)  
 ✅ **Open GitHub Repository initialized**  
 ✅ **Actively seeking contributors to plan architecture, workflows, and prototypes.**  
 ✅ **Targeting a minimal prototype within 6 months for testing in a local context.**
@@ -94,7 +93,7 @@ If you wish to discuss, contribute, or collaborate on partnerships,
 
 ## 📣 Join Us
 
-**Bhumia.com invites everyone to join this journey to make land registration transparent, accessible, and fair for all.**
+**Bhumia invites everyone to join this journey to make land registration transparent, accessible, and fair for all.**
 
 ✅ Star this repo.  
 ✅ Watch for discussions and issues.  
